@@ -1,3 +1,7 @@
+/*my C++ code: ask user for input using loops, if the user type other answers
+ *then the loops do some checks and deal with it once the user finishes then
+ *it display the result
+*/
 #include <iostream>
 namespace name {
     double input;
