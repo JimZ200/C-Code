@@ -11,7 +11,7 @@ void enterNewPrice();
 int main() {
     std::string input = " ";
     std::cout<<"**********\n";
-
+    //code in the loop start here
     while(true) {
         try{
             std::cout<<"Enter price or type 'exit' to exit\n";
