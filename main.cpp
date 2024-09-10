@@ -63,6 +63,7 @@ int main() {
     return 0;
 }
 
+//methods that will be using inside the loop
 void priceIsGood(double x) {
     x = x * 1.15;
     std::cout<<"Your price is: "<<x<<std::endl;
